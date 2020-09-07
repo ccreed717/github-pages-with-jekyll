@@ -1,3 +1,3 @@
-# Welcome to my blog
+# ccreed717 the blog
 
-I'm glad you are here. I plan to talk about ...
+Figuring out how to use GitHub pages to showcase data science projects
